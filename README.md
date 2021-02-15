@@ -1,15 +1,15 @@
-## :vulcan_salute: Welcome to my Profile
-:man_student: I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bharati Vidyapeeth's College of Engineering (BVCOE).
+# :vulcan_salute: Welcome to my Profile
+I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bharati Vidyapeeth's College of Engineering (BVCOE) :man_student: .
 
-### :computer: Languages and Tools
+## Languages and Tools :computer:
 
 <img src="icons/Python.png" width = 40px height = 40px > <img src="icons/Java.png" width = 40px height = 40px> <img src="icons/C++.png" width = 40px height = 40px> <img src="icons/C.png" width = 40px height = 40px> <img src="icons/Mysql.png" width = 40px height = 40px> <br> <br>
 <img src="icons/Gcp.png" width = 40px height = 40px> <img src="icons/Puppet.png" width = 40px height = 40px> <img src="icons/Git.png" width = 40px height = 40px>  <img src="icons/Linux.png" width = 40px height = 40px> <img src="icons/Github.png" width = 40px height = 40px> <br> <br>
 <img src="icons/Intellij.png" width = 75px height = 40px> &nbsp; <img src="icons/Jupyter.png" width = 40px height = 40px> &nbsp; <img src="icons/Atom.png" width = 40px height = 40px>
 
-### :open_file_folder: Other Stuff
+## Other Stuff :open_file_folder:
 <details>
-  <summary> :chart: Github Analytics </summary>
+  <summary> Github Analytics :chart: </summary>
   <br>
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=gulvaibhav20&show_icons=true&theme=nord)
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary> :bulb: More about me   </summary>
+  <summary> More about me :bulb: </summary>
   <br>
   - In my free time, I write tech articles on Medium. <br>
   - My Hobbies : <br>
@@ -25,7 +25,7 @@
   <br><br>
 </details>
 
-### :wave: Reach out to me
+## Reach out to me :wave:
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-gulati/"><img src="icons/Linkedin.png" width = 40px height = 40px></a> &nbsp;
 <a href="https://www.instagram.com/gulvaibhav20/"><img src="icons/Instagram.png" width = 40px height = 40px ></a> &nbsp;
