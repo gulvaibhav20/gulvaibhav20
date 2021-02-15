@@ -15,7 +15,7 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
 <details>
   <summary> :man_technologist: Projects   </summary>
   <br>
-  - [Instagram-style Photo Collage Maker](https://github.com/gulvaibhav20/Instagram-Style-Photo-Collage)
+  * [Instagram-style Photo Collage Maker](https://github.com/gulvaibhav20/Instagram-Style-Photo-Collage)
   <br><br>
 </details>
 
@@ -30,7 +30,7 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
 <details>
   <summary> :bulb: More about me   </summary>
   <br>
-  - In my free time, I write tech articles on Medium.
+  - In my free time, I write tech articles on Medium. <br>
   - **Hobbies -** <img src="icons/Football.jpg" width = 40px height = 40px> <img src="icons/Pc.jpg" width = 40px height = 40px> <img src="icons/Drawing.png" width = 40px height = 40px >
   <br><br>
 </details>
