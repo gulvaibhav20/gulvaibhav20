@@ -5,7 +5,7 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
 
 <img src="icons/Python.png" width = 40px height = 40px > <img src="icons/Java.png" width = 40px height = 40px> <img src="icons/C++.png" width = 40px height = 40px> <img src="icons/C.png" width = 40px height = 40px> <img src="icons/Mysql.png" width = 40px height = 40px> <br> <br>
 <img src="icons/Gcp.png" width = 40px height = 40px> <img src="icons/Puppet.png" width = 40px height = 40px> <img src="icons/Git.png" width = 40px height = 40px>  <img src="icons/Linux.png" width = 40px height = 40px> <img src="icons/Github.png" width = 40px height = 40px> <br> <br>
-<img src="icons/Intellij.png" width = 75px height = 40px> &nbsp; <img src="icons/Jupyter.png" width = 40px height = 40px> &nbsp; <img src="icons/Atom.png" width = 40px height = 40px> 
+<img src="icons/Intellij.png" width = 75px height = 40px> &nbsp; <img src="icons/Jupyter.png" width = 40px height = 40px> &nbsp; <img src="icons/Atom.png" width = 40px height = 40px>
 
 ## Other Stuff :open_file_folder:
 <details>
@@ -31,4 +31,5 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
 <a href="https://www.instagram.com/gulvaibhav20/"><img src="icons/Instagram.png" width = 40px height = 40px ></a> &nbsp;
 <a href="mailto:gulvaibhav20@gmail.com"><img src="icons/Gmail.png" width = 40px height = 40px ></a> &nbsp;
 <a href="https://gulvaibhav20.medium.com/"><img src="icons/Medium.png" width = 40px height = 40px ></a> &nbsp;
+<a href="https://www.hackerrank.com/gulvaibhav20"><img src="icons/HackerRank.png" width = 40px height = 40px ></a> &nbsp;
 </p>
