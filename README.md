@@ -1,10 +1,10 @@
 # :vulcan_salute: Welcome to my Profile
-I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi, India :man_student: .
+I am Vaibhav Gulati, a final-year Computer Science undergraduate student at Bharati Vidyapeeth's College of Engineering (BVCOE), New Delhi, India :man_student: .
 
 ## Languages and Tools :computer:
 
 <img src="icons/Python.png" width = 40px height = 40px > <img src="icons/Java.png" width = 40px height = 40px> <img src="icons/C++.png" width = 40px height = 40px> <img src="icons/C.png" width = 40px height = 40px> <img src="icons/Kivy.png" width = 40px height = 40px > <img src="icons/KivyMD.png" width = 40px height = 40px> <br> <br>
-<img src="icons/HTML.png" width = 40px height = 40px> <img src="icons/CSS.png" width = 40px height = 40px> <img src="icons/JS.png" width = 40px height = 40px> &nbsp;<img src="icons/Canva.png" width = 40px height = 40px> &nbsp;<br> <br>
+<img src="icons/HTML.png" width = 40px height = 40px> <img src="icons/CSS.png" width = 40px height = 40px> <img src="icons/JS.png" width = 40px height = 40px> &nbsp;<img src="icons/Canva.png" width = 40px height = 40px> &nbsp;<img src="icons/Django.png" width = 50px height = 48px> &nbsp;<br> <br>
 <img src="icons/Gcp.png" width = 40px height = 40px> &nbsp;<img src="icons/Puppet.png" width = 40px height = 40px> <img src="icons/Git.png" width = 40px height = 40px>  <img src="icons/Linux.png" width = 40px height = 40px> <img src="icons/Github.png" width = 40px height = 40px> <br> <br>
 <img src="icons/Intellij.png" width = 75px height = 40px> &nbsp; <img src="icons/Jupyter.png" width = 40px height = 40px> &nbsp; <img src="icons/Atom.png" width = 40px height = 40px>
 
@@ -21,6 +21,8 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
   <summary> Projects :package: </summary>
   <br>
   <ol>
+    <li> <a href="https://github.com/gulvaibhav20/extractive-text-summarizer">Extractive Text Summarizer </a>
+    <li> <a href="https://gulvaibhav20.github.io/">Portfolio Website </a>
     <li> <a href="https://github.com/gulvaibhav20/Instagram-Style-Photo-Collage">Instagram Style Photo Collage </a>
     <li> <a href="https://github.com/gulvaibhav20/Web-Scrapping">Web Scrapping </a>
     <li> <a href="https://github.com/gulvaibhav20/Automation">Automation </a>
@@ -31,7 +33,7 @@ I am Vaibhav Gulati, a third-year Computer Science undergraduate student at Bhar
 <details>
   <summary> More about me :bulb: </summary>
   <br>
-  - In my free time, I write tech articles on Hashnode and Medium. <br>
+  - In my free time, I write tech articles on <a href="https://gulvaibhav20.hashnode.dev/">Hashnode</a> and <a href="https://gulvaibhav20.medium.com/">Medium</a>. <br>
   - My Hobbies : <br>
   &nbsp;&nbsp;&nbsp; <img src="icons/Football.jpg" width = 40px height = 40px> <img src="icons/Pc.jpg" width = 40px height = 40px> <img src="icons/Drawing.png" width = 40px height = 40px >
   <br><br>
