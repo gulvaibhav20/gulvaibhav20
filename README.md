@@ -9,7 +9,7 @@ I'm a 22 year old software engineer and technical content writer from India. I a
 <details>
   <summary><i> If you want to know more about me, Click <b> Here </b></i></summary>
   
-- 🌱 I’m currently learning **Azure Cloud Platform**
+- 🌱 I’m currently learning **Azure Cloud Platform** and **PyQt GUI toolkit**
 
 - 👨‍💻 All of my projects are available [Here](https://gulvaibhav20.github.io/)
 
